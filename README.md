@@ -2,8 +2,6 @@
 This simple code will help to show and hide any type of view on single button press 
 
 
-`
-
     @IBAction func selectCategoryButton(_ sender: Any) {
         
         print("button tapped")
