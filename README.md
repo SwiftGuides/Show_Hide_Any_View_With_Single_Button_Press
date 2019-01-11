@@ -3,6 +3,7 @@ This simple code will help to show and hide any type of view on single button pr
 
 
 `
+
     @IBAction func selectCategoryButton(_ sender: Any) {
         
         print("button tapped")
@@ -13,4 +14,5 @@ This simple code will help to show and hide any type of view on single button pr
         } else {
             categoriesTableView.isHidden = true
         }
+        
  `
