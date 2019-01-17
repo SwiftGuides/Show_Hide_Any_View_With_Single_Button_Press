@@ -12,5 +12,5 @@ This simple code will help to show and hide any type of view on single button pr
         } else {
             categoriesTableView.isHidden = true
         }
-        
+        }
  
